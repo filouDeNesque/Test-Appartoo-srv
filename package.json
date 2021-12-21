@@ -1,0 +1,24 @@
+{
+  "name": "test-appartoo-srv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filouDeNesque/Test-Appartoo-srv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filouDeNesque/Test-Appartoo-srv/issues"
+  },
+  "homepage": "https://github.com/filouDeNesque/Test-Appartoo-srv#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mongodb": "^4.2.2"
+  }
+}
